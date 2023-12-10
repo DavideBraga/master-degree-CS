@@ -6,6 +6,9 @@ Welcome to my GitHub repository for the Master's courses in Computer Science! ðŸ
 - **Cyber Security**
 - **Software Engineering**
 - **Programming Languages and Specification**
+- **Software Security**
+
+*Note: The course in Software Security is currently on pause.*
 
 ## Contents:
 - In-depth lecture notes
