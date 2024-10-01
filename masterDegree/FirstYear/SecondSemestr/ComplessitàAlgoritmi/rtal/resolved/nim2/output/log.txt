@@ -1,0 +1,204 @@
+TALight evaluation manager service called for problem:
+   nim2
+File `README_synopsis.typ` downloaded in the output folder.
+File `README_rtal.typ` downloaded in the output folder.
+No problem-specific `README_this_TALight_problem.typ` getby file has been made available for this problem.
+The server is running in TRACKING mode, that is, it keeps track of the autenticated submissions and their evaluation results.
+And the user has autenticated by providing his personal token in this call to the server.
+
+Subtask 1 (12 testcases):
+
+Case #001 [Subtask 1(seed=631693)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=631693)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=369351)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=369351)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=692529)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=692529)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=790884)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=790884)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=273676)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=273676)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=366290)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=366290)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=133234)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=133234)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=420315)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=420315)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=368865)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=368865)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=918075)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=918075)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=780103)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=780103)]: successfully ended (=communication protocol fully respected).
+
+Case #001 [Subtask 1(seed=709527)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #001 [Subtask 1(seed=709527)]: successfully ended (=communication protocol fully respected).
+
+Subtask 2 (12 testcases):
+
+Case #002 [Subtask 2(seed=247782)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=247782)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=648045)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=648045)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=297175)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=297175)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=836547)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=836547)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=331096)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=331096)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=548407)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=548407)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=805707)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=805707)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=624008)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=624008)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=986661)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=986661)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=393102)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=393102)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=688638)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=688638)]: successfully ended (=communication protocol fully respected).
+
+Case #002 [Subtask 2(seed=624431)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #002 [Subtask 2(seed=624431)]: successfully ended (=communication protocol fully respected).
+
+Subtask 3 (12 testcases):
+
+Case #003 [Subtask 3(seed=484788)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=484788)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=676270)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=676270)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=477732)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=477732)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=283702)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=283702)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=290085)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=290085)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=568205)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=568205)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=254244)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=254244)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=217845)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=217845)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=210023)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=210023)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=496392)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=496392)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=246261)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=246261)]: successfully ended (=communication protocol fully respected).
+
+Case #003 [Subtask 3(seed=328665)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #003 [Subtask 3(seed=328665)]: successfully ended (=communication protocol fully respected).
+
+Subtask 4 (12 testcases):
+
+Case #004 [Subtask 4(seed=569507)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=569507)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=963805)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=963805)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=220827)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=220827)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=325732)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=325732)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=518709)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=518709)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=241125)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=241125)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=464305)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=464305)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=529753)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=529753)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=946874)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=946874)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=454041)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=454041)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=173492)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=173492)]: successfully ended (=communication protocol fully respected).
+
+Case #004 [Subtask 4(seed=628092)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #004 [Subtask 4(seed=628092)]: successfully ended (=communication protocol fully respected).
+
+Subtask 5 (12 testcases):
+
+Case #005 [Subtask 5(seed=834369)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=834369)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=774458)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=774458)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=856546)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=856546)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=663545)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=663545)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=108777)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=108777)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=554801)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=554801)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=986119)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=986119)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=375796)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=375796)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=849789)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=849789)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=898527)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=898527)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=580454)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=580454)]: successfully ended (=communication protocol fully respected).
+
+Case #005 [Subtask 5(seed=931094)]: has been sent to you. Meanwhile you begin receiving it we start the chron.
+Case #005 [Subtask 5(seed=931094)]: successfully ended (=communication protocol fully respected).
+
+Trying to store the results of the evalution in the database on the server.
+-Ok. The results of the evalution have been stored in the database on the server.
+
+File result.txt downloaded in your output folder.
+
+Bye-bye, my logging service ends here. Hope to see you again.

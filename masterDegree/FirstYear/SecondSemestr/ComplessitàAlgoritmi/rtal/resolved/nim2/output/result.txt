@@ -1,0 +1,253 @@
+
+Subtask 1 (12 testcases):
+Case #001 [Subtask 1(seed=631693)]: AC (0.041/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=369351)]: AC (0.042/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=692529)]: AC (0.041/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=790884)]: AC (0.043/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=273676)]: AC (0.060/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=366290)]: AC (0.061/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=133234)]: AC (0.040/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=420315)]: AC (0.061/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=368865)]: AC (0.040/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=918075)]: AC (0.060/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=780103)]: AC (0.040/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #001 [Subtask 1(seed=709527)]: AC (0.074/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+
+Subtask 2 (12 testcases):
+Case #002 [Subtask 2(seed=247782)]: AC (0.062/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=648045)]: AC (0.079/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=297175)]: AC (0.065/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=836547)]: AC (0.062/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=331096)]: AC (0.059/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=548407)]: AC (0.058/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=805707)]: AC (0.061/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=624008)]: AC (0.062/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=986661)]: AC (0.061/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=393102)]: AC (0.092/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=688638)]: AC (0.102/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #002 [Subtask 2(seed=624431)]: AC (0.062/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+
+Subtask 3 (12 testcases):
+Case #003 [Subtask 3(seed=484788)]: AC (0.144/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=676270)]: AC (0.155/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=477732)]: AC (0.122/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=283702)]: AC (0.126/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=290085)]: AC (0.123/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=568205)]: AC (0.122/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=254244)]: AC (0.145/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=217845)]: AC (0.150/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=210023)]: AC (0.170/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=496392)]: AC (0.120/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=246261)]: AC (0.124/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #003 [Subtask 3(seed=328665)]: AC (0.147/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+
+Subtask 4 (12 testcases):
+Case #004 [Subtask 4(seed=569507)]: AC (0.079/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=963805)]: AC (0.040/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=220827)]: AC (0.045/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=325732)]: AC (0.041/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=518709)]: AC (0.020/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=241125)]: AC (0.043/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=464305)]: AC (0.021/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=529753)]: AC (0.042/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=946874)]: AC (0.042/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=454041)]: AC (0.041/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=173492)]: AC (0.090/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #004 [Subtask 4(seed=628092)]: AC (0.042/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+
+Subtask 5 (12 testcases):
+Case #005 [Subtask 5(seed=834369)]: AC (0.613/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=774458)]: AC (0.632/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=856546)]: AC (0.642/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=663545)]: AC (0.614/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=108777)]: AC (0.671/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=554801)]: AC (0.631/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=986119)]: AC (0.675/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=375796)]: AC (0.654/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=849789)]: AC (0.643/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=898527)]: AC (0.613/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=580454)]: AC (0.690/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+Case #005 [Subtask 5(seed=931094)]: AC (0.642/1.000 secs) All Correct (got 1/1 points)
+Some feedback is in order:
+ - global_feedback: You have won this game.
+
+
+
+Score: 60/60 points

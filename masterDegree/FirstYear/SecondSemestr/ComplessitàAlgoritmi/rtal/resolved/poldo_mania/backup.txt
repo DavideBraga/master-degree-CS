@@ -1,0 +1,38 @@
+def binary_insertion_sort(arr):
+    bins = []
+    len = [0 for _ in range(len(arr))]
+    for x in arr[::-1]:
+        if not bins or x < bins[-1]:
+            print(x)
+            bins.append(x)
+        else:
+            lo, hi = 0, len(bins) - 1
+            while lo < hi:
+                mid = (lo + hi) // 2
+                if bins[mid] > x:
+                    lo = mid + 1
+                else:
+                    hi = mid
+            bins[hi] = x
+    return bins
+
+def binary_insertion_sort_2(arr):
+    bins = []
+    for x in arr[:]:
+        if not bins or x > bins[-1]:
+            print(x)
+            bins.append(x)
+        else:
+            lo, hi = 0, len(bins) - 1
+            while lo < hi:
+                mid = (lo + hi) // 2
+                if bins[mid] < x:
+                    lo = mid + 1
+                else:
+                    hi = mid
+            bins[hi] = x
+    return bins
+
+arr = [3, 0, 4, 2, 5, 1]
+print(binary_insertion_sort(arr))
+print(binary_insertion_sort_2(arr))

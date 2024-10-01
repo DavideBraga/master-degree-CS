@@ -1,0 +1,54 @@
+---
+public_folder: public
+services:
+    solve:
+        evaluator: [python, services/manager.py]
+        args:
+            size:
+                regex: ^(esempi_testo|small|medium|big|large|extra_large)$
+                default: extra_large
+            download_inst:
+                regex: ^(0|1)$
+                default: 0
+            download_corr_answ:
+                regex: ^(0|1)$
+                default: 0
+            download_your_answ:
+                regex: ^(0|1)$
+                default: 0
+            global_seed:
+                regex: ^(random|[1-9][0-9]{5,5})$
+                default: random
+                explain: the evaluation manager is a random process that poses different instances at each call to prevent you from precomputing all the answers and circumvent the required time limits. However, using the `global_seed` argument, you can precisely replicate an entire previous run as a whole. This gives transparency and helps in identifying problems on either side. Of course, the points collected in such runs are not taken into account for exams or assigned homeworks.
+            subtask:
+                regex: ^(undefined|esempi_testo|practice|tiny|small|medium|big|large|extra_large|huge|colossal)$
+                default: undefined
+                explain: "you can restrict attention to one single subtask. For subtasks that deliver points only when all their testcases are correctly managed, the policy might well be that the best points over different subtasks get summed up even at an exam."
+            instance_num:
+                regex: ^(0|[1-9][0-9]{0,2})$
+                default: 0
+                explain: "when you specify the instance number (starting from 1), you are requiring one single testcase of the whole suite. However, if your intention is to meet once again an already encountered instance, and that instance is random rather than hardcoded, then you need to specify also the `instance_seed` argument."
+            instance_seed:
+                regex: ^(random|[1-9][0-9]{5,5})$
+                default: random
+                explain: "for those subtasks whose instances are rendomly generated, the evaluation manager will pose you different instances at each call (to prevent you from precomputing all the answers circumventing the required time limits). However, for your convenience, you can meet again and download an already encountered instance (or even a correct answer for it) by providing the arguments `instance_num`, and `instance_seed`. Clearly, the points collected in such runs are not taken into account for exams or assigned homeworks."
+            swap_roles:
+                regex: ^(0|1)$
+                default: 0
+                explain: "you can ask to exchange roles: you will then pose one single instance of the problem at hand, and the server will play the role of the solver. Note: you do not need to write the first line containing just a `1` in your standard output since it is assumed that the instance is just one per service call."
+        files:
+            - source   # explain: when you are submitting your solution in order to get scores assigned to you, then you need to put in attachment the sources comprising your solution.
+    synopsis:
+        evaluator: [python, services/synopsis/synopsis_driver.py]
+        args:
+            service:
+                regex: ^((\S)+)$
+                default: synopsis
+                explain: any string without space characters but meant to specify one of the services of the problem %(problem)s
+            lang:
+                regex: ^(hardcoded|hardcoded_ext|en|it)$
+                default: it
+            metafile:
+                regex: ^(main|en|it)$
+                default: main
+...
