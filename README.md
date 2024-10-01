@@ -19,7 +19,7 @@ Welcome to my GitHub repository for the Master's courses in Computer Science! ðŸ
  - **Data Base**
 
 **Second Year**
-  coming soon...
+ - coming soon...
 
 
 *Note: The course in Software Security is currently on pause.*
