@@ -29,6 +29,6 @@ Welcome to my GitHub repository for the Master's courses in Computer Science! �
 - Code snippets and examples
 - Supplementary resources
 
-  *Note: The materials provided in this repository are created as part of the coursework for the Master's program in Computer Science and Engineering. All credits and rights related to the educational content belong to the University of Verona. Some ispirations are taken by https://github.com/alessiogj/master-degree-computer-science repository, who analyze similar courses; in particular, the cryptography notes came from this repo.*
+  *Note: The materials provided in this repository were created as part of the coursework for the Master's program in Computer Science and Engineering. All credits and rights to the educational content belong to the University of Verona. Some inspiration was taken from alessiogj, which covers similar courses. In particular, the cryptography notes are derived from that source. Additionally, the notes on Cybersecurity, Software Engineering, and Parallel Programming were created by nickkpiccoli. I have only partially modified the notes in question.*
 
 Feel free to explore the content, contribute, or provide feedback. Let's collaboratively build a valuable resource for everyone in the computer science community. Happy coding and learning! 🖥️📚
