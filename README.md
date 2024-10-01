@@ -2,6 +2,8 @@
 
 Welcome to my GitHub repository for the Master's courses in Computer Science! 🚀 Here, you'll find comprehensive notes and materials compiled during the lectures, capturing the essence of each topic covered in the following courses:
 
+**Disclaimer: The notes and code provided may contain errors. Please do not rely on them completely.**
+
 **First Year**
 
  **First Semester**
