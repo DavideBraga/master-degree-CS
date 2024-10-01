@@ -2,11 +2,25 @@
 
 Welcome to my GitHub repository for the Master's courses in Computer Science! 🚀 Here, you'll find comprehensive notes and materials compiled during the lectures, capturing the essence of each topic covered in the following courses:
 
-- **Cryptography**
-- **Cyber Security**
-- **Software Engineering**
-- **Programming Languages and Specification**
-- **Software Security**
+**First Year**
+
+ **First Semester**
+ 
+ - **Cryptography**
+ - **Cyber Security**
+ - **Software Engineering**
+ - **Programming Languages and Specification**
+ - **Software Security**
+
+ **Second Smester**
+ - **Malicous Code**
+ - **Complexity and Algorithm**
+ - **Parallel Programming**
+ - **Data Base**
+
+**Second Year**
+ coming soon...
+
 
 *Note: The course in Software Security is currently on pause.*
 
